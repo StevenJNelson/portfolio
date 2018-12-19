@@ -36,7 +36,7 @@ class AppNavbar extends Component {
                 <NavLink href="/about">About</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="https://github.com/clearwater-labs/parkingNotifier">
+                <NavLink href="https://github.com/StevenJNelson">
                   GitHub
                 </NavLink>
               </NavItem>
