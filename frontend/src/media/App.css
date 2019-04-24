@@ -31,12 +31,16 @@
   }
 }
 
-
-html, #root, body, .App, .content {
+html,
+#root,
+body,
+.App,
+.content {
   height: 100%;
 }
 
 .content {
   margin: 0 auto;
   vertical-align: center;
+  margin-top: 45vh;
 }
