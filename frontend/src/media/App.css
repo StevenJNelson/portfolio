@@ -30,3 +30,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+html, #root, body, .App, .content {
+  height: 100%;
+}
+
+.content {
+  margin: 0 auto;
+  vertical-align: center;
+}
