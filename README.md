@@ -1,5 +1,4 @@
 
-[![Waffle.io - Columns and their card count](https://badge.waffle.io/StevenJNelson/portfolio.svg?columns=all)](https://waffle.io/StevenJNelson/portfolio)
 
 <h1 align="center">
 Steven Nelson - CS Portfolio Website
